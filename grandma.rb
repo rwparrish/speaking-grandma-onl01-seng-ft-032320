@@ -5,7 +5,9 @@ def speak_to_grandma (phrase)
     puts "I LOVE YOU TOO PUMPKIN!"
     
   elseif phrase.upcase 
+    puts "NO, NOT SINCE 1938!"
     
+  elseif
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
