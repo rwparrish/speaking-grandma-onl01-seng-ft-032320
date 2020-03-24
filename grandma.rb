@@ -7,7 +7,7 @@ if phrase != phrase.upcase
 elsif phrase == phrase.upcase
   "NO, NOT SINCE 1938!"
   
-else phrase == phrase
+else phrase == "I LOVE YOU GRANDMA!"
   "I LOVE YOU TOO PUMPKIN!"
   
   
