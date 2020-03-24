@@ -8,7 +8,7 @@ def speak_to_grandma (phrase)
     puts "NO, NOT SINCE 1938!"
     
   else phrase
-    puts 
+    puts "HUH?! SPEAK UP, SONNY!"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
