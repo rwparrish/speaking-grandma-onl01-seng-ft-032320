@@ -1,7 +1,8 @@
 # Write a speak_to_grandma method.
 speak_to_grandma(phrase="I LOVE YOU GRANDMA!")
   
-if phrase !==
+if phrase != phrase.upcase
+  
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
